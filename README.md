@@ -1,10 +1,10 @@
 # 🚀 Groogp - Modern Messaging Platform
 
 <p align="center">
-  <img src="https://img.shields.io/github/license/username/repo?style=for-the-badge" alt="License">
-  <img src="https://img.shields.io/github/stars/username/repo?style=for-the-badge" alt="Stars">
-  <img src="https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=nodesotdotjs&logoColor=white" alt="NodeJS">
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="ExpressJS">
+  <img src="https://img.shields.io/github/license/YOUR_USERNAME/YOUR_REPO_NAME?style=for-the-badge" alt="License">
+  <img src="https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO_NAME?style=for-the-badge" alt="Stars">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="ExpressJS">
 </p>
 
 <p align="center">
